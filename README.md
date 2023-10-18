@@ -44,8 +44,7 @@ Ensure that you have the following dependencies installed:
 3. Build and run the app on an iOS device or simulator.
 
 ## Screenshots
-
-<img src="[https://github.com/Nouble-Bushido/Memories/assets/117162015/ec708ea5-4aa9-4466-a47c-98aec5847ae5.png] width="300" height="200">
+![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 13 44](https://github.com/Nouble-Bushido/Memories/assets/117162015/d8ad401f-83be-46d8-9bbd-fd612e983855)
 
 
 Contact:
