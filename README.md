@@ -1,64 +1,58 @@
-# Memories - Мобильное приложение для управления и просмотра воспоминаний
+# Memories - Mobile App for Managing and Viewing Memories
 
-## Описание
+## Description
 
-Memories - это мобильное приложение для управления и просмотра ваших воспоминаний. Оно предназначено для устройств на базе iOS начиная с версии 16.2.
+Memories is a mobile app for managing and viewing your memories. It is designed for iOS devices starting from version 16.2.
 
-## Технологии
+## Technologies
 
-- Язык программирования: Swift
-- База данных: Core Data
-- Библиотека для констрейнтов: Snap Kit
-- Работа с фотографиями: PhotosUI
+- Programming Language: Swift
+- Database: Core Data
+- Constraint Library: Snap Kit
+- Photo Handling: PhotosUI
 
-## Функциональность
+## Functionality
 
-- Создание, редактирование и удаление альбомов
-- Добавление описания, названия, обложки и фотографий в альбомы
-- Основные экраны:
-  - Главный экран
-  - Галерея
-  - Просмотр альбома
-  - Редактирование альбома
-  - Создание альбома
-  - Просмотр фотографий в альбоме
+- Create, edit, and delete albums
+- Add descriptions, titles, covers, and photos to albums
+- Key screens:
+  - Main screen
+  - Gallery
+  - Album view
+  - Album editing
+  - Album creation
+  - Photo viewing within albums
 
-## Установка
+## Installation
 
-### Требования
+### Requirements
 
-- Устройство с iOS 16.2 или новее
+- Device running iOS 16.2 or later
 
-### Зависимости
+### Dependencies
 
-Убедитесь, что у вас установлены следующие зависимости:
+Ensure that you have the following dependencies installed:
 
 - Core Data
 - Snap Kit
 - PhotosUI
 
-### Запуск приложения
+### Running the App
 
-1. Клонируйте репозиторий.
-2. Откройте проект в Xcode.
-3. Соберите и запустите приложение на устройстве или симуляторе iOS.
+1. Clone the repository.
+2. Open the project in Xcode.
+3. Build and run the app on an iOS device or simulator.
 
-## Скриншоты
+## Screenshots
 
-![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 33 53](https://github.com/Nouble-Bushido/Memories/assets/117162015/1700a1f9-8954-4b2f-92a0-f154d4eeec3b)
-![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 33 40](https://github.com/Nouble-Bushido/Memories/assets/117162015/b71dbcad-e90d-4887-84da-c3b04e10dd57)
-![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 33 34](https://github.com/Nouble-Bushido/Memories/assets/117162015/eb0aff9e-c1b5-45d5-8761-31a827b664ad)
-![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 33 24](https://github.com/Nouble-Bushido/Memories/assets/117162015/827cb20e-be33-47cd-aa31-236de7669a0a)
-![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 13 53](https://github.com/Nouble-Bushido/Memories/assets/117162015/bca6b530-771c-4106-a237-57d57c1834e5)
-![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 13 44](https://github.com/Nouble-Bushido/Memories/assets/117162015/d81a9611-bff7-4d06-98c1-41b4ff251e3c)
+<img src="[ссылка_на_ваш_скриншот.jpg](https://github.com/Nouble-Bushido/Memories/assets/117162015/b03dea21-8ad8-4810-982d-6aad71bccfc1)" width="300" height="200">
+![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 13 44](https://github.com/Nouble-Bushido/Memories/assets/117162015/b03dea21-8ad8-4810-982d-6aad71bccfc1)
 
 
 
 Contact:
 
 LinkedIn
-
 artchzhen@gmail.com
-
 @ArtChzhen
 
