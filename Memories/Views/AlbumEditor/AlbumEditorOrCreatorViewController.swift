@@ -445,6 +445,7 @@ extension AlbumEditorOrCreatorViewController: UITextFieldDelegate {
         return true
     }
     
+    //лимит символов
     func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
         if textField == titleTextField {
             let characterLimit = 10
