@@ -45,8 +45,7 @@ Ensure that you have the following dependencies installed:
 
 ## Screenshots
 
-<img src="[ссылка_на_ваш_скриншот.jpg](https://github.com/Nouble-Bushido/Memories/assets/117162015/b03dea21-8ad8-4810-982d-6aad71bccfc1)" width="300" height="200">
-![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 13 44](https://github.com/Nouble-Bushido/Memories/assets/117162015/b03dea21-8ad8-4810-982d-6aad71bccfc1)
+<img src="[file:///Users/artemchzhen/Desktop/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-10-18%20at%2011.13.44.png] width="300" height="200">
 
 
 
