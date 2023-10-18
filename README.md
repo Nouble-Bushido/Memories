@@ -55,9 +55,9 @@ Ensure that you have the following dependencies installed:
 
 Contact:
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/artem-chzhen-2926b7264/)
 
-artchzhen@gmail.com
+[artchzhen@gmail.com](mailto:artchzhen@gmail.com)
 
-@ArtChzhen
+[@ArtChzhen](https://t.me/ArtChzhen)
 
