@@ -46,10 +46,13 @@ Ensure that you have the following dependencies installed:
 ## Screenshots
 ![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 13 44](https://github.com/Nouble-Bushido/Memories/assets/117162015/d8ad401f-83be-46d8-9bbd-fd612e983855)
 
+![Simulator Screenshot - iPhone 14 - 2023-10-18 at 11 13 44](https://github.com/Nouble-Bushido/Memories/assets/117162015/bc5d29f6-ce92-4dc5-aac4-e09c9075e33d)
 
 Contact:
 
 LinkedIn
+
 artchzhen@gmail.com
+
 @ArtChzhen
 
