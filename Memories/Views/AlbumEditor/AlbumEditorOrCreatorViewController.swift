@@ -402,7 +402,6 @@ final class AlbumEditorOrCreatorViewController: UIViewController, UICollectionVi
 
 //MARK: - extension UICollectionViewDataSource
 extension AlbumEditorOrCreatorViewController: UICollectionViewDataSource {
-    
     //кол-во секций в коллекции
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return albumImages.count
@@ -426,7 +425,7 @@ extension AlbumEditorOrCreatorViewController: UICollectionViewDataSource {
         deleteButton.frame = CGRect(x: cell.bounds.width - 30, y: 5, width: 25, height: 25)
         deleteButton.addTarget(self, action: #selector(deleteButtonTapped(_:)), for: .touchUpInside)
         deleteButton.tag = indexPath.row
-
+        
         cell.addSubview(deleteButton)
     }
     
@@ -443,6 +442,24 @@ extension AlbumEditorOrCreatorViewController: UITextFieldDelegate {
     //скрытие клавиатуры
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         textField.resignFirstResponder()
+        return true
+    }
+    
+    //лимит символов
+    func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
+        if textField == titleTextField {
+            let characterLimit = 10
+            if let text = textField.text {
+                let updatedText = (text as NSString).replacingCharacters(in: range, with: string)
+                return updatedText.count <= characterLimit
+            }
+        } else if textField == descriptionTextField {
+            let characterLimit = 300
+            if let text = textField.text {
+                let updatedText = (text as NSString).replacingCharacters(in: range, with: string)
+                return updatedText.count <= characterLimit
+            }
+        }
         return true
     }
 }
